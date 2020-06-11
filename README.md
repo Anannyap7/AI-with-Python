@@ -1,4 +1,4 @@
-# AI-with-Python
+# Basic Python Codes
 Some Basic Python codes
 
 Includes:
